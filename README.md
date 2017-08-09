@@ -1,7 +1,7 @@
 # nicks-env
 just shit i like to have
 
-copy .vimrc
+copy: .vimrc .spacemacs
 
 use this for brewfile:
 https://github.com/Homebrew/homebrew-bundle
