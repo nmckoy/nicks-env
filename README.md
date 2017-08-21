@@ -8,3 +8,5 @@ https://github.com/Homebrew/homebrew-bundle
 
 spacemacs:
 https://github.com/syl20bnr/spacemacs
+
+try hyper: https://github.com/zeit/hyper
