@@ -37,6 +37,7 @@ brew "mongodb"
 brew "mysql", restart_service: true
 brew "nmap"
 brew "node"
+brew "nodenv"
 brew "openconnect"
 brew "pcre"
 brew "postgresql", restart_service: true
