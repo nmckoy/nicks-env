@@ -1,0 +1,1 @@
+("~/Documents/Projects/scotch-bonnet/" "~/Documents/Projects/scotch-bonnet/staging/" "~/Documents/Projects/scotch-bonnet/template/")
