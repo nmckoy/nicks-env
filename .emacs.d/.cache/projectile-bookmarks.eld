@@ -1,1 +1,1 @@
-("~/Documents/Projects/scotch-bonnet/" "~/Documents/Projects/scotch-bonnet/staging/" "~/Documents/Projects/scotch-bonnet/template/")
+("~/Documents/Projects/nicks-env/" "~/.emacs.d/" "~/Documents/Projects/scotch-bonnet/" "~/Documents/Projects/scotch-bonnet/staging/" "~/Documents/Projects/scotch-bonnet/template/")
